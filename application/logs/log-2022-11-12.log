@@ -1,0 +1,2 @@
+ERROR - 2022-11-12 23:55:17 --> Severity: error --> Exception: Call to undefined function mysqli_init() /home/coverend/berneth/Manager/vendor/codeigniter/framework/system/database/drivers/mysqli/mysqli_driver.php 143
+ERROR - 2022-11-12 23:55:17 --> Severity: error --> Exception: Call to undefined function mysqli_init() /home/coverend/berneth/Manager/vendor/codeigniter/framework/system/database/drivers/mysqli/mysqli_driver.php 143
